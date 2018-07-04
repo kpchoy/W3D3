@@ -1,0 +1,28 @@
+html, head, body, section, article, h1, h2, p, footer {
+  
+  margin: 0;
+  border: 0;
+  padding: 0; 
+  
+  font: inherit;
+  text-align: inherit;
+  text-decoration: inherit;
+  color: inherit;  
+  
+}
+
+body {
+  /* display: inline-block;
+  margin: 0px auto;
+  text-align: center; */
+  line-height: 1.5;
+}
+
+li {
+  list-style: none;
+}
+
+img {
+  width: 100%;
+  /* max-height: 100%; */
+}
